@@ -1,4 +1,4 @@
-module github.com/creack/pty
+module github.com/dolfly/pty
 
 go 1.13
 
